@@ -15,3 +15,9 @@
 The assignment itself was not difficult, the only issue I had was when I was making my computer the screen but it was just a typo.
 
 
+## Getting Pi Online
+
+### Reflection
+I had issues getting it connected to the internet but I soon realized that there was a space after my password which caused it to mess up, after that it was smooth sailing.
+
+
