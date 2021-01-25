@@ -11,14 +11,12 @@
 
 
 
-### Reflection
-The assignment itself was not difficult, the only issue I had was when I was making my computer the screen but it was just a typo.
-
-
+### Description
+The goal of this assignemtn is to make a program which prints "Hello World!" 10 times. In this assignemnt I learned how to opperate in terminal.
 ## Getting Pi Online
 
-### Reflection
-I had issues getting it connected to the internet but I soon realized that there was a space after my password which caused it to mess up, after that it was smooth sailing.
+### Description
+The goal of this assignment is to get out Pi connected to the internet, I had issues getting it connected but I soon realized that there was a space after my password which caused it to mess up, after that it was smooth sailing.
 
 
 ## Hello Python (Dice Roller)
@@ -33,8 +31,8 @@ I had issues getting it connected to the internet but I soon realized that there
 
 
 
-### Reflection
-The code itself for the assignment was not difficult but my indentation caused some errors while running it, but those problems were resolved.
+### Description
+The goal of this assignemnt is to create a program that prompts the user to click enter which makes the program select a random number, this loop continues until the user clicks X, which is the sentinel value. The code itself for the assignment was not difficult but my indentation caused some errors while running it, but those problems were resolved.
 
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Dice%20Roller%20Code)
@@ -45,9 +43,9 @@ The code itself for the assignment was not difficult but my indentation caused s
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.22.02%20PM.png" width = "400">
 
 
-### Reflection
+### Description
 
-this assignment was definetly the most challenging so far, I was familiar with mod because of my CS class. Nothing crazy.
+The goal of this assignment is to create a program that prompts the user for 2 numbers, then the program finds the sum, difference, product, quotient, and mod of the numbers. This assignment was definetly the most challenging so far, I was familiar with mod because of my CS class. Nothing crazy.
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Calculator%20code)
 
@@ -59,9 +57,13 @@ this assignment was definetly the most challenging so far, I was familiar with m
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.44.47%20PM.png" width = "400">
 
 
-### Reflection
+### Description
 
-This assignment was pretty hard, I was familiar with arrays from my CS class but I just had to get used to them on python.
+The goal of this assignment is to create a program that prompts the user to enter 3 values to plug into the quadratic formula. This assignment was pretty hard, I was familiar with arrays from my CS class but I just had to get used to them on python.
 
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Quadratic%20Solver%20Code)
+
+## String Splitter
+
+### Description
