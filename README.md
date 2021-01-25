@@ -32,4 +32,4 @@ I had issues getting it connected to the internet but I soon realized that there
 The code itself for the assignment was not difficult but my indentation caused some errors while running it, but those problems were resolved.
 
 
-[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Dice%20Roller%20Code)]
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Dice%20Roller%20Code)
