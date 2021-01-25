@@ -28,7 +28,7 @@ I had issues getting it connected to the internet but I soon realized that there
 
 
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.01.44%20PM.png"
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.01.44%20PM.png" width = "400">
 
 
 
