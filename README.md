@@ -50,3 +50,18 @@ The code itself for the assignment was not difficult but my indentation caused s
 this assignment was definetly the most challenging so far, I was familiar with mod because of my CS class. Nothing crazy.
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Calculator%20code)
+
+## Quadratic Solver
+
+### Images 
+
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.44.47%20PM.png" width = "400"
+
+
+### Reflection
+
+This assignment was pretty hard, I was familiar with arrays from my CS class but I just had to get used to them on python.
+
+
+
