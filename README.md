@@ -70,3 +70,5 @@ The goal of this assignment is to create a program that prompts the user to ente
 
 ### Description
 The goal of this assignment was to take a sentence inputed by the user and  dissect the string and print it letter by letter.
+
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/commit/e8c38fecd7ea7c3dcfd81a9d068c17c072f1d505)
