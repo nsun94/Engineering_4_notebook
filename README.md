@@ -56,7 +56,7 @@ this assignment was definetly the most challenging so far, I was familiar with m
 ### Images 
 
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.44.47%20PM.png"width = "400"
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.44.47%20PM.png" width = "400">
 
 
 ### Reflection
