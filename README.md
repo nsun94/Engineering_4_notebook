@@ -65,5 +65,8 @@ The goal of this assignment is to create a program that prompts the user to ente
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Quadratic%20Solver%20Code)
 
 ## String Splitter
+### Images
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.58.31%20PM.png" width = "400">
 
 ### Description
+The goal of this assignment was to take a sentence inputed by the user and  dissect the string and print it letter by letter.
