@@ -64,4 +64,4 @@ this assignment was definetly the most challenging so far, I was familiar with m
 This assignment was pretty hard, I was familiar with arrays from my CS class but I just had to get used to them on python.
 
 
-
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Quadratic%20Solver%20Code)
