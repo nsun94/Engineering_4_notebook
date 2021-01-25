@@ -1,0 +1,29 @@
+#Calculator
+#Written by Nico Sun
+
+#Prompt user to enter their numbers
+inputNum1 = input("Press first number: ") 
+inputNum2 = input("Press second number: ")
+
+
+def doMath(inputNum1,inputNum2,operator):
+	#The math function uses the given numbers and runs them through each operation.
+	if operator == 1: #sum
+		return int(inputNum1) + int(inputNum2)
+	if operator == 2: #difference
+		return int(inputNum1) - int(inputNum2)
+	if operator == 3: #product
+		return int(inputNum1) * int(inputNum2)
+	if operator == 4: #quotient
+		Q = int(inputNum1) / int(inputNum2) #finds quotient
+		RQ = round(Q,2) #rounds quotient to 2 places
+		return RQ
+	if operator == 5: #modulus
+		return int(inputNum1) % int(inputNum2)
+
+#Prints the values of the given numbers after math.
+print("Sum:\t\t" + str(doMath(inputNum1,inputNum2,1)))
+print("Difference:\t" + str(doMath(inputNum1,inputNum2,2)))
+print("Prodcut:\t" + str(doMath(inputNum1,inputNum2,3)))
+print("Quotient:\t" + str(doMath(inputNum1,inputNum2,4)))
+print("Modulo:\t\t" + str(doMath(inputNum1,inputNum2,5)))
