@@ -1,0 +1,13 @@
+#StringSplitter
+#Written by Nico Sun
+
+input = str(input("Enter a sentence: ")) #Prompts the user to enter their sentence
+input = input.replace(" ", "-")  #Makes all of the spaces "-"
+
+input_list = list(input)  #Converts the string to a list
+input_list.append("-")  #adds a - to the end of the list 
+
+print(*input_list, sep='\n') #Prints the list 
+
+
+  
