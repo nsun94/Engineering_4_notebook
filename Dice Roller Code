@@ -1,0 +1,20 @@
+# Hello Python/Automatic Dice Roller
+# Written by Nico Sun
+
+from random import randint
+import sys 
+import time
+
+print ("Automatic Dice Roller") 
+
+
+while True:			#allows the loop to continue until the sentinel variable is pressed
+	time.sleep(1)		
+	RollPrompt = input("Press Enter to Roll and x to quit: ")	#prompts user for input
+	
+	if RollPrompt == (""):
+		print(randint(1,6))	#If the user inputs enter then the program will loop again
+	if RollPrompt == ("X"): 	
+                sys.exit()		#sentinel variable is X, when it is pressed the program ends.
+		
+
