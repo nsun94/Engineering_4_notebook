@@ -77,7 +77,7 @@ The goal of this assignment was to take a sentence inputed by the user and  diss
 ## MSP/Hangman
 
 ### Images
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-24%20at%208.44.47%20PM.png" width = "400">
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/Screen%20Shot%202021-01-25%20at%207.53.13%20PM.png" width = "400">
 
 ### Description
 The goal of this assignment was to create a hangman program, the program promts the user for a word and the other user has to guess it.
