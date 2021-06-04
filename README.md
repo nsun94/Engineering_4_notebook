@@ -81,6 +81,7 @@ The goal of this assignment was to take a sentence inputed by the user and  diss
 
 ### Description
 The goal of this assignment was to create a hangman program, the program promts the user for a word and the other user has to guess it.
+
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Hangman)
 
 ## GPIO Pins - Bash 
@@ -88,3 +89,12 @@ The goal of this assignment was to create a hangman program, the program promts 
   The goal of this assignment was to get an LED to blink 10 times. This was a good introduction to Bash, the two languages have different syntax, but implement the same logic.
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/commit/23971cd53c9351c94fa0e22d2491f7769f2e5970)
+
+## GPIO Pins - Python
+### Description
+This assignment was very similar to the previous assignment, I got an LED to blink using python. Google helped a lot for this assignment.
+
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Hangman)
+
+
+
