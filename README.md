@@ -82,3 +82,9 @@ The goal of this assignment was to take a sentence inputed by the user and  diss
 ### Description
 The goal of this assignment was to create a hangman program, the program promts the user for a word and the other user has to guess it.
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Hangman)
+
+## GPIO Pins - Bash 
+### Description
+  The goal of this assignment was to get an LED to blink 10 times. This was a good introduction to Bash, the two languages have different syntax, but implement the same logic.
+
+[Code Link]()
