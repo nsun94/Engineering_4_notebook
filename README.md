@@ -113,6 +113,13 @@ The goal of this assignment was to use SSH to remotely activate an LED.
 The goal of this assignment is to get the accelerometer's data and graph it on the OLED screen with either the X Y or Z axis. The program had to be able to run remotely. 
 
  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/headless.py) 
+ 
+ ## Hello Flask 
+ ### Description
+ The goal of this assignment was to get set your pi up as a web server so that you can access a website using its IP address. The code was given so it was not difficult, but it was cool to see what the pi capable of.
+ 
+ [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Hello%20Flask.py) 
+ 
 
 
 
