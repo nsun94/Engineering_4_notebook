@@ -143,7 +143,7 @@ The goal of this assignment was to take pictures with the pi camera using filter
 
 
 
-"cartoon filter"
+"cartoon"
 
 
 
