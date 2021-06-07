@@ -141,16 +141,29 @@ The goal of this assignment was to take pictures with the pi camera using filter
 
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg" width = "400">
 
+
+
 "cartoon filter"
+
+
 
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_colorswap.jpg" width = "400">
 
+
+
 "color swap"
+
+
 
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_none.jpg" width = "400">
 
 "none"
+
+
+
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg" width = "400">
+
+
 
 "sketch"
 
