@@ -108,6 +108,14 @@ The goal of this assignment was to use SSH to remotely activate an LED.
  
  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/I2C.py) 
 
+## Headless
+### Description
+The goal of this assignment is to get the accelerometer's data and graph it on the OLED screen with either the X Y or Z axis. The program had to be able to run remotely. 
+
+ [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/headless.py) 
+
+
+
 
 
 
