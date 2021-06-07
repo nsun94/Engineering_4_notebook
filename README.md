@@ -120,6 +120,16 @@ The goal of this assignment is to get the accelerometer's data and graph it on t
  
  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/Hello%20Flask.py) 
  
+ ## Hello Flask
+ ### Description
+ 
+ In this assignment we had to turn two LEDs on and off using the internet. Very cool concept, further displayed the pi's abilities.
+ 
+  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/app.py) 
+  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/index.html) 
+
+  
+
 
 
 
