@@ -102,6 +102,12 @@ The goal of this assignment was to use SSH to remotely activate an LED.
 
 [Code Link](https://github.com/nsun94/Engineering_4_notebook/commit/d596a049ae0d65d7348c8e05a8a173c936b95139) 
 
+## I2C
+### Description 
+ In this assignment I got the accelerometers values to show up on my OLED screen. This is similar to what I had to do for my project so it was not that difficult.
+ 
+ [Code Link](https://github.com/nsun94/Engineering_4_notebook/commit/d596a049ae0d65d7348c8e05a8a173c936b95139) 
+
 
 
 
