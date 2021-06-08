@@ -175,6 +175,12 @@ The goal of this assignment was to take pictures with the pi camera using filter
 
 
 
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_washedout.jpg" width = "400">
+
+
+
+"washed-out"
+
 
 ## Copypasta
 ### Copypasta 1
