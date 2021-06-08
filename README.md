@@ -134,7 +134,7 @@ The goal of this assignment was to take a picture using the pi camera, the resol
 
 
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/camera_test.jpeg" = "400">
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/cameratest.jpeg" = "400">
 
 
 
