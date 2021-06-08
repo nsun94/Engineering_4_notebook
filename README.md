@@ -132,7 +132,7 @@ The goal of this assignment is to get the accelerometer's data and graph it on t
 ### Pi Camera 1 
 The goal of this assignment was to take a picture using the pi camera, the resolution was 1024 x 768.
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/camera_test.jpeg= "400">
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/camera_test.jpeg" = "400">
 
 ### Pi Camera 2 
 The goal of this assignment was to take pictures with the pi camera using filters. the resolution was 1024 x 768.
