@@ -170,11 +170,12 @@ The goal of this assignment was to take pictures with the pi camera using filter
 
 
 
-
-
 ## Copypasta
 ### Copypasta 1
 I used the motion sensor to take a picture on the pu camera.
+
+
+
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg" width = "400">
 
 
