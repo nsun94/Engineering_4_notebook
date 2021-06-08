@@ -168,6 +168,10 @@ The goal of this assignment was to take pictures with the pi camera using filter
 "sketch"
 
 
+
+
+
+
 ## Copypasta
 ### Copypasta 1
 I used the motion sensor to take a picture on the pu camera.
