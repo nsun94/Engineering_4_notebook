@@ -128,7 +128,49 @@ The goal of this assignment is to get the accelerometer's data and graph it on t
   [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/app.py) 
   [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/index.html) 
 
-  
+## Pi Camera
+### Pi Camera 1 
+The goal of this assignment was to take a picture using the pi camera, the resolution was 1024 x 768.
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test.jpg" width = "400">
+
+### Pi Camera 2 
+The goal of this assignment was to take pictures with the pi camera using filters. the resolution was 1024 x 768.
+
+
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg" width = "400">
+
+
+
+"cartoon"
+
+
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_colorswap.jpg" width = "400">
+
+
+
+"color swap"
+
+
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_none.jpg" width = "400">
+
+"none"
+
+
+
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg" width = "400">
+
+
+
+"sketch"
+
+
+
+
+
 
 
 
