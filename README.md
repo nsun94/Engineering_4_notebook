@@ -146,6 +146,8 @@ The goal of this assignment was to take a picture using the pi camera, the resol
 ### Pi Camera 2 
 The goal of this assignment was to take pictures with the pi camera using filters. the resolution was 1024 x 768.
 
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/camtest2.py) 
+
 
 
 <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg" width = "400">
