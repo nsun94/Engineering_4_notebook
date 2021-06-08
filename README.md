@@ -176,7 +176,7 @@ I used the motion sensor to take a picture on the pu camera.
 
 
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg" width = "400">
+<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test.jpg" width = "400">
 
 
 
