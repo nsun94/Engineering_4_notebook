@@ -1,0 +1,13 @@
+import time
+from gpiozero import MotionSensor
+from picamera import PiCamera
+import datetime
+
+camera = PiCamera()# makes pi camera be identifiable as camera
+now = datetime.datetime.now()# sets up date as to be indentified by now
+filename = "intruder_" + str(now).replace(" ", "_") + ".h264"# makes the file name change based of the date taken
+
+while True:
+	camera.start_recording(filename)# starts recording
+	time.sleep(3)
+camera.stop_preview()# ends recording
