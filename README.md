@@ -201,9 +201,15 @@ I used the motion sensor to take a picture on the pi camera using the motion sen
 
 The goal of the assignment is to make a stop motion video using pictures taken on the pi camera, but I could not get the stop motion aspect to work.
 
- [Frame 1] <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%201.jpg" width = "400">
- [Frame 2] <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%202.jpg" width = "400">
- [Frame 2] <img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%203.jpg" width = "400">
+ [Frame 1]<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%201.jpg" width = "400">
+ 
+ 
+ 
+ [Frame 2]<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%202.jpg" width = "400">
+ 
+ 
+ 
+ [Frame 2]<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/frame%203.jpg" width = "400">
  
  [Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/copypasta1) 
 
