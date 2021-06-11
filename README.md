@@ -192,8 +192,11 @@ The goal of this assignment was to take pictures with the pi camera using filter
 I used the motion sensor to take a picture on the pi camera using the motion sensor.
 
 
+[Code Link](https://github.com/nsun94/Engineering_4_notebook/blob/main/copypasta1) 
 
-<img src= "https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test.jpg" width = "400">
+[Video Link] (https://github.com/nsun94/Engineering_4_notebook/blob/main/pics_my_movie.mp4)
+
+
 
 
 
